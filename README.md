@@ -30,9 +30,9 @@
 
     * What steps did you take to try and increase model performance?
     
-    *   In Model 2, a third hidden layer was added. However, the model accuracy decreased slightly to 72.43%. 
-    *   In Model 3, the activation function was changed from "relu" to "tanh" for the hidden layers.  The model accuracy was 72.47%.
-    *   In Model 4, the number of nodes for the first hidden layer was changed from 25 to 10 and for the second hidden layer the number of nodes were changed from 50 to 20.  Also the number of epochs were changed from 100 to 50. The model accuracy was 72.62%.
+       In Model 2, a third hidden layer was added. However, the model accuracy decreased slightly to 72.43%. 
+       In Model 3, the activation function was changed from "relu" to "tanh" for the hidden layers.  The model accuracy was 72.47%.
+       In Model 4, the number of nodes for the first hidden layer was changed from 25 to 10 and for the second hidden layer the number of nodes were changed from 50 to 20.  Also the number of epochs were changed from 100 to 50. The model accuracy was 72.62%.
 
 
 3. **Summary**: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
