@@ -22,7 +22,6 @@
     
       The EIN and NAME columns were dropped and therefore not considered as target or feature variables for the model
       
-      
   * Compiling, Training, and Evaluating the Model
     * How many neurons, layers, and activation functions did you select for your neural network model, and why?
       
