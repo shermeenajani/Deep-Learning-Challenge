@@ -38,3 +38,4 @@
 
 
 3. **Summary**: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+Though the nueral network model did not achieve the target 75% accuracy in any of the models, it was close (between 72-73% accuracy).  One could continue to try additional optimization techniques to the model or try a different machine learning model, such as Random Forest Classifier, to achieve the target accuracy of 75%.  
